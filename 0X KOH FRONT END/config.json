@@ -167,11 +167,6 @@
         {
             "text": "DAI",
             "value": "dai"
-
-        },    
-        {
-            "text": "KOH",
-            "value": "koh"
-        }
+        }    
     ]
 }
